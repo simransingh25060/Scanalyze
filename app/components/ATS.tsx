@@ -1,9 +1,9 @@
-const Summary = () => {
+const ATS = () => {
     return (
         <div>
-            Summary
+            ATS
         </div>
     )
 }
 
-export default Summary
+export default ATS
